@@ -1,3 +1,5 @@
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dsalazar10/udacity)
+
 # Project-Kubernetes_Workflow
 Udacity's Cloud DevOps Nanodegree Course 4 Project
 
