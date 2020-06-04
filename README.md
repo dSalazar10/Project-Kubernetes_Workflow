@@ -16,3 +16,19 @@ Udacity's Cloud DevOps Nanodegree Course 4 Project
 4) Start Promethius
 
 `./prometheus --config.file=prometheus.yml`
+
+5) Update Cloud9's Security Group's inbound routing IP addresses to include port 9090 for all inbound traffic
+
+![](screenshot-01.png)
+
+6) View the metrics using /metrics
+
+![](screenshot-02.png)
+
+7) Run graph commands using the GUI
+
+![](screenshot-03.png)
+
+8) Graph results using the Graph Button
+
+![](screenshot-04.png)
