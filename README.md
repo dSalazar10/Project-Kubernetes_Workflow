@@ -25,10 +25,10 @@ Udacity's Cloud DevOps Nanodegree Course 4 Project
 
 ![](screenshot-02.png)
 
-7) Run graph commands using the GUI
+7) Execute graph commands using the Console Tab
 
 ![](screenshot-03.png)
 
-8) Graph results using the Graph Button
+8) Graph results using the Graph Tab
 
 ![](screenshot-04.png)
