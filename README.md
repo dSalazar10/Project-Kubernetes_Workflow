@@ -2,6 +2,7 @@
 # Project-Kubernetes_Workflow
 Udacity's Cloud DevOps Nanodegree Course 4 Project
 
+[![Project-Docker_Workflow](https://circleci.com/gh/dSalazar10/Project-Kubernetes_Workflow.svg?style=shield)](https://app.circleci.com/pipelines/github/dSalazar10/Project-Kubernetes_Workflow)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dsalazar10/udacity)
 
 
