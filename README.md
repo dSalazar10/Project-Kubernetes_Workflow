@@ -32,3 +32,7 @@ Udacity's Cloud DevOps Nanodegree Course 4 Project
 8) Graph results using the Graph Tab
 
 ![](screenshot-04.png)
+
+7) Configure and Run Kubernetes on local host
+
+![](screenshot-05.png)
